@@ -331,3 +331,4 @@ true_companion/
 
 ## 📄 License
 This project is open-source under the MIT License. Built with empathy and care.
+
