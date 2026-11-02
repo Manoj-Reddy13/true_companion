@@ -1,0 +1,283 @@
+{
+  "users": [
+    {
+      "_id": "6ae8477f519c4ee3e3db709c",
+      "anonymousUsername": "QuietGuardian_01",
+      "nickname": "Guardian Angel",
+      "email": "admin@truecompanion.org",
+      "passwordHash": "$2b$10$BTRvZGuh2IkSIeqchs5Cke3eFl43xJqsZfeyxcaDIUuJrBVj0EpC.",
+      "avatar": "avatar-1",
+      "bio": "Community Care & Safety Team Lead. Ensuring True Companion remains a calm, safe sanctuary for all.",
+      "role": "admin",
+      "status": "active",
+      "warningCount": 0,
+      "bookmarks": [],
+      "createdAt": "2026-11-02T08:19:11.326Z",
+      "updatedAt": "2026-11-02T08:19:11.326Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db709d",
+      "anonymousUsername": "SilentSoul_482",
+      "nickname": "Quiet Thinker",
+      "email": "silentsoul@example.com",
+      "passwordHash": "$2b$10$BTRvZGuh2IkSIeqchs5Cke3eFl43xJqsZfeyxcaDIUuJrBVj0EpC.",
+      "avatar": "avatar-2",
+      "bio": "Final year university student navigating transitions. Looking for genuine conversations without societal masks.",
+      "role": "user",
+      "status": "active",
+      "warningCount": 0,
+      "bookmarks": [],
+      "createdAt": "2026-11-02T08:19:11.330Z",
+      "updatedAt": "2026-11-02T08:19:11.330Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db709e",
+      "anonymousUsername": "HopeSeeker_91",
+      "nickname": "Gentle Horizon",
+      "email": "hopeseeker@example.com",
+      "passwordHash": "$2b$10$BTRvZGuh2IkSIeqchs5Cke3eFl43xJqsZfeyxcaDIUuJrBVj0EpC.",
+      "avatar": "avatar-3",
+      "bio": "Recovering from deep corporate burnout. Always here to listen with patience and empathy.",
+      "role": "user",
+      "status": "active",
+      "warningCount": 0,
+      "bookmarks": [],
+      "createdAt": "2026-11-02T08:19:11.332Z",
+      "updatedAt": "2026-11-02T08:19:11.332Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db709f",
+      "anonymousUsername": "MoonWalker_238",
+      "nickname": "Night Owl",
+      "email": "moonwalker@example.com",
+      "passwordHash": "$2b$10$BTRvZGuh2IkSIeqchs5Cke3eFl43xJqsZfeyxcaDIUuJrBVj0EpC.",
+      "avatar": "avatar-4",
+      "bio": "Introvert, book lover, and quiet listener. Dealing with family relationship challenges.",
+      "role": "user",
+      "status": "active",
+      "warningCount": 0,
+      "bookmarks": [],
+      "createdAt": "2026-11-02T08:19:11.334Z",
+      "updatedAt": "2026-11-02T08:19:11.334Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a0",
+      "anonymousUsername": "QuietHeart_52",
+      "nickname": "Calm River",
+      "email": "quietheart@example.com",
+      "passwordHash": "$2b$10$BTRvZGuh2IkSIeqchs5Cke3eFl43xJqsZfeyxcaDIUuJrBVj0EpC.",
+      "avatar": "avatar-5",
+      "bio": "Lived through severe anxiety and panic attacks for years. You are never as alone as your mind tells you.",
+      "role": "user",
+      "status": "active",
+      "warningCount": 0,
+      "bookmarks": [],
+      "createdAt": "2026-11-02T08:19:11.335Z",
+      "updatedAt": "2026-11-02T08:19:11.335Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a1",
+      "anonymousUsername": "GentleEcho_12",
+      "nickname": "Soft Breeze",
+      "email": "gentleecho@example.com",
+      "passwordHash": "$2b$10$BTRvZGuh2IkSIeqchs5Cke3eFl43xJqsZfeyxcaDIUuJrBVj0EpC.",
+      "avatar": "avatar-6",
+      "bio": "Learning to be kinder to myself every single day.",
+      "role": "user",
+      "status": "active",
+      "warningCount": 0,
+      "bookmarks": [],
+      "createdAt": "2026-11-02T08:19:11.337Z",
+      "updatedAt": "2026-11-02T08:19:11.337Z"
+    }
+  ],
+  "posts": [
+    {
+      "_id": "6ae8477f519c4ee3e3db70a8",
+      "authorId": "6ae8477f519c4ee3e3db709f",
+      "title": "Living in a Household Where Emotional Expression is Punished",
+      "description": "Growing up, crying was considered weakness and expressing boundaries was labeled as 'disrespect'. Now that I am an adult living with my parents, the passive aggression and silent treatments are exhausting. I feel like I walk on eggshells from sunrise to sunset.",
+      "category": "Family Problems",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.349Z",
+      "updatedAt": "2026-11-02T08:19:11.349Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a7",
+      "authorId": "6ae8477f519c4ee3e3db709d",
+      "title": "Waking Up with Unexplained Morning Anxiety Waves",
+      "description": "Does anyone else wake up at 5:00 AM with a racing heartbeat and a sense of impending doom, even before remembering what day it is? I have been practicing box breathing, but some mornings the anxiety is like a physical weight pressing on my diaphragm. How do you gently ground yourself when your nervous system is in overdrive?",
+      "category": "Mental Wellbeing",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.347Z",
+      "updatedAt": "2026-11-02T08:19:11.347Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a6",
+      "authorId": "6ae8477f519c4ee3e3db70a1",
+      "title": "Some Days, Small Tasks Feel Like Climbing Mount Everest",
+      "description": "Just a reminder to anyone who needs it today: if brushing your teeth, drinking water, and taking a five-minute shower was all you could manage today, that is enough.\n\nHealing isn't a race or an Instagram aesthetic. It is messy, slow, and often invisible. Be proud that you are still here breathing.",
+      "category": "Motivation",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.346Z",
+      "updatedAt": "2026-11-02T08:19:11.346Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a5",
+      "authorId": "6ae8477f519c4ee3e3db70a0",
+      "title": "Suffocating Parental Pressure Around Competitive Exams",
+      "description": "My parents have sacrificed so much for my education, and I love them deeply. But their expectations feel like an anvil on my chest. Every mealtime conversation is about rank percentiles, mock test scores, and relatives' children who cleared civil services.\n\nI failed my latest assessment by 8 marks. I haven't slept properly in two weeks because of the sheer dread of disappointing them. How do you breathe when your worth feels tied only to your marks?",
+      "category": "Academic Pressure",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.344Z",
+      "updatedAt": "2026-11-02T08:19:11.344Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a4",
+      "authorId": "6ae8477f519c4ee3e3db709f",
+      "title": "A Painful Breakup with Zero Closure or Explanation",
+      "description": "After four years together, they simply stopped calling, stopped showing up, and sent a two-line message saying they needed space. That was three months ago.\n\nThe hardest part isn't just missing them—it is the endless loops in my head trying to figure out what I did wrong or why I wasn't worth an honest conversation. If anyone has walked this road of sudden abandonment, I'd really appreciate a quiet chat.",
+      "category": "Relationship Issues",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.342Z",
+      "updatedAt": "2026-11-02T08:19:11.342Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a3",
+      "authorId": "6ae8477f519c4ee3e3db709e",
+      "title": "The Heavy, Silent Loneliness of Moving to a New Metropolis",
+      "description": "Six months ago, I moved to Bengaluru for my first tech job. On paper, it was everything I dreamed of. In reality, I spend 10 hours at a desk surrounded by people who are polite but distant, and then I return to an empty studio apartment.\n\nThe silence in the evenings feels almost loud. I eat dinner while watching random videos just to hear a human voice. Is it normal to feel this untethered when everything in your life looks fine on the surface?",
+      "category": "Loneliness",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.340Z",
+      "updatedAt": "2026-11-02T08:19:11.340Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a2",
+      "authorId": "6ae8477f519c4ee3e3db709d",
+      "title": "Feeling Completely Lost About My Career & Future",
+      "description": "I am currently in my final year of university, and I feel suffocated by confusion. Everyone around me seems to have accepted internships, received job offers, or have solid plans for their masters. Whenever someone asks me 'So what is next?', my chest tightens and I freeze.\n\nI feel like I spent years studying something just because it was expected of me, but now I don't know who I am or what makes me feel alive. I just want someone who understands what it feels like to have no roadmap.",
+      "category": "Career Confusion",
+      "attachments": [],
+      "chatEnabled": true,
+      "status": "active",
+      "viewsCount": 0,
+      "createdAt": "2026-11-02T08:19:11.338Z",
+      "updatedAt": "2026-11-02T08:19:11.338Z"
+    }
+  ],
+  "chatRequests": [
+    {
+      "_id": "6ae8477f519c4ee3e3db70ae",
+      "senderId": "6ae8477f519c4ee3e3db70a0",
+      "receiverId": "6ae8477f519c4ee3e3db709d",
+      "postId": "6ae8477f519c4ee3e3db70a7",
+      "introductionMessage": "I saw your post on morning anxiety. I learned a grounding sensory exercise that helped me a lot. Happy to share if you'd like to chat.",
+      "status": "pending",
+      "createdAt": "2026-11-02T08:19:11.360Z",
+      "updatedAt": "2026-11-02T08:19:11.360Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70a9",
+      "senderId": "6ae8477f519c4ee3e3db709e",
+      "receiverId": "6ae8477f519c4ee3e3db709d",
+      "postId": "6ae8477f519c4ee3e3db70a2",
+      "introductionMessage": "Hi friend, I read your post about feeling lost. I went through the exact same dread four years ago. I'd love to listen if you want to vent.",
+      "status": "pending",
+      "createdAt": "2026-11-02T08:19:11.351Z",
+      "updatedAt": "2026-11-02T08:19:11.351Z"
+    }
+  ],
+  "conversations": [
+    {
+      "_id": "6ae8477f519c4ee3e3db70aa",
+      "participants": [
+        "6ae8477f519c4ee3e3db709d",
+        "6ae8477f519c4ee3e3db709e"
+      ],
+      "chatRequestId": "6ae8477f519c4ee3e3db70a9",
+      "postId": "6ae8477f519c4ee3e3db70a2",
+      "status": "active",
+      "lastMessageAt": "2026-11-02T08:19:11.358Z",
+      "createdAt": "2026-11-02T08:19:11.353Z",
+      "updatedAt": "2026-11-02T08:19:11.353Z"
+    }
+  ],
+  "messages": [
+    {
+      "_id": "6ae8477f519c4ee3e3db70ab",
+      "conversationId": "6ae8477f519c4ee3e3db70aa",
+      "senderId": "6ae8477f519c4ee3e3db709e",
+      "messageType": "text",
+      "content": "Hi friend, I read your post about feeling lost. I went through the exact same dread four years ago. I'd love to listen if you want to vent.",
+      "attachments": [],
+      "readBy": [
+        "6ae8477f519c4ee3e3db709e"
+      ],
+      "isDeleted": false,
+      "createdAt": "2026-11-02T08:19:11.355Z",
+      "updatedAt": "2026-11-02T08:19:11.355Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70ac",
+      "conversationId": "6ae8477f519c4ee3e3db70aa",
+      "senderId": "6ae8477f519c4ee3e3db709d",
+      "messageType": "text",
+      "content": "Thank you so much for reaching out. Honestly just knowing someone else felt this and survived helps me breathe a bit easier today.",
+      "attachments": [],
+      "readBy": [
+        "6ae8477f519c4ee3e3db709d"
+      ],
+      "isDeleted": false,
+      "createdAt": "2026-11-02T08:19:11.357Z",
+      "updatedAt": "2026-11-02T08:19:11.357Z"
+    },
+    {
+      "_id": "6ae8477f519c4ee3e3db70ad",
+      "conversationId": "6ae8477f519c4ee3e3db70aa",
+      "senderId": "6ae8477f519c4ee3e3db709e",
+      "messageType": "text",
+      "content": "You will survive this too, I promise. Society creates an illusion that at 21 or 22 you must have your entire 50-year plan formulated. What are you studying right now?",
+      "attachments": [],
+      "readBy": [
+        "6ae8477f519c4ee3e3db709e"
+      ],
+      "isDeleted": false,
+      "createdAt": "2026-11-02T08:19:11.358Z",
+      "updatedAt": "2026-11-02T08:19:11.358Z"
+    }
+  ],
+  "reports": [
+    {
+      "_id": "6ae8477f519c4ee3e3db70af",
+      "reporterId": "6ae8477f519c4ee3e3db709f",
+      "reason": "Spam",
+      "description": "Account was sending unsolicited promotional crypto links in multiple threads.",
+      "status": "pending",
+      "adminAction": "none",
+      "adminNotes": "",
+      "createdAt": "2026-11-02T08:19:11.362Z",
+      "updatedAt": "2026-11-02T08:19:11.362Z"
+    }
+  ],
+  "notifications": [],
+  "blockedUsers": []
+}
